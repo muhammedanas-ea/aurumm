@@ -3,7 +3,7 @@ const Hero = () => {
     <div
       className="mt-[-90px] flex flex-col items-center pt-36 md:pt-48 text-center px-6 pb-16"
       style={{
-        backgroundImage: `url('/public/Background.png')`,
+        backgroundImage: `url('/Background.png')`,
         backgroundPosition: "center",
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",

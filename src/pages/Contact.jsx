@@ -6,7 +6,7 @@ const Contact = () => {
       <div
         className="mt-[-90px] h-[70vh] px-6 pb-16"
         style={{
-          backgroundImage: `url('/public/Background.png')`,
+          backgroundImage: `url('/Background.png')`,
           backgroundPosition: "center",
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",

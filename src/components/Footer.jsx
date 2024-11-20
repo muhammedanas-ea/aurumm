@@ -3,7 +3,7 @@ import logo from "../../public/Aurum_Logo.38df8d15.png";
 const Footer = () => {
   return (
     <footer className="text-[#1A3866] py-8 mt-8" style={{
-        backgroundImage: `url('/public/product/Section.png')`,
+        backgroundImage: `url('/product/Section.png')`,
         backgroundPosition: "center",
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",

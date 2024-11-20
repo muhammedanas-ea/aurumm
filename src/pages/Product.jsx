@@ -62,7 +62,7 @@ const Product = () => {
       <motion.div
         className="mt-[-90px] h-[85vh] px-6 pb-16"
         style={{
-          backgroundImage: `url('/public/Background.png')`,
+          backgroundImage: `url('/Background.png')`,
           backgroundPosition: "center",
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
