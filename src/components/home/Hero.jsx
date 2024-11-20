@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
     <div
-      className="mt-[-90px] flex flex-col items-center pt-36 md:pt-60 text-center px-6 pb-16"
+      className="mt-[-90px] flex flex-col items-center pt-36 md:pt-64 text-center px-6 pb-16"
       style={{
         backgroundImage: `url('/Background.png')`,
         backgroundPosition: "center",
